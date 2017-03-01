@@ -1,12 +1,12 @@
 $blue: #216ff6;
 
 h1,h2,h3 {
-  background-color: #216ff6;
-  color: white;
+  background-color: $blue;
+  color: $blue;
   padding: 5px;
 }
 
 .content a {
-  color: #216ff6;
+  color: $blue;
   text-decoration: underline;
 }
